@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kiran Updahya
-image: /img/home-jumbotron.jpg
+image: /img/kiran-mama-background.jpg
 heading: Kiran Updahya
 subheading: Automobile Expert, Touring Guide, MultiLingual, One Stop Expert 
 mainpitch:
