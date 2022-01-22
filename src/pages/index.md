@@ -5,11 +5,13 @@ image: /img/kiran-mama-background.jpg
 heading: Kiran Updahya
 subheading: Automobile Expert, Touring Guide, MultiLingual, One Stop Expert 
 mainpitch:
-  title: Kiran Upadhya
+  title: Meet Kiran Upadhya
   description: >
     DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
-Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
-
+    Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
+description: >-
+  DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
+  Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
 intro:
   blurbs:
     - image: /img/coffee.png
