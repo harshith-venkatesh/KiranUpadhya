@@ -3,9 +3,9 @@ templateKey: index-page
 title: Kiran Updahya
 image: /img/home-jumbotron.jpg
 heading: Kiran Updahya
-subheading: Support sustainable farming while enjoying a cup
+subheading: Automobile Expert, Touring Guide, MultiLingual, One Stop Expert 
 mainpitch:
-  title: Why Kaldi
+  title: Kiran Upadhya
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
