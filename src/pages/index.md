@@ -9,7 +9,7 @@ mainpitch:
   description: >
     DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
 Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
-description: >-
+description: >
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
