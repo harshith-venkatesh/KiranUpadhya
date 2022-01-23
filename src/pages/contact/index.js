@@ -102,7 +102,8 @@ export default class Index extends React.Component {
                   <button className="button is-link" type="submit">
                     Send
                   </button>
-                  <input type="hidden" name="_next" value={`/contact/thanks/`} />
+                  <input type="hidden" name="_next" value={`https://kiranupadhya.netlify.app/contact/thanks/`} />
+                  <input type="hidden" name="_url" value="https://kiranupadhya.netlify.app/contact/"></input>
                 </div>
               </form>
             </div>
