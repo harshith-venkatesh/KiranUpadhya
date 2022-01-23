@@ -43,10 +43,9 @@ export default class Index extends React.Component {
               <form
                 name="contact"
                 method="post"
-                action="/contact/thanks/"
+                action="https://formsubmit.co/reachkiranupadhya@gmail.com"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
-                onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
                 <input type="hidden" name="form-name" value="contact" />
@@ -104,6 +103,7 @@ export default class Index extends React.Component {
                   <button className="button is-link" type="submit">
                     Send
                   </button>
+                  <input type="hidden" name="_next" value={`/contact/thanks/`} />
                 </div>
               </form>
             </div>
