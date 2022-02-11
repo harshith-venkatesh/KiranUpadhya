@@ -3,6 +3,12 @@ templateKey: 'about-page'
 path: /about
 title: About Automobile
 ---
+
+### Advice on Used Cars
+We have always seen so many ads and availability of used cars, however without technical expertise and advice, we might end up making bad choice. Well , not anymore!!!
+
+### Advice on New Cars
+Buying Car is always a special moment in life, buy one with best advice.
 ### Advices on Accessaries
 A wide range of accessories to elevate your driving
 experience as per your desires. 

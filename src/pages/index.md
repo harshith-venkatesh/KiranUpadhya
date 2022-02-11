@@ -18,6 +18,10 @@ intro:
     - image: /img/car-repair.png
       path: /about
       text: >
+        👉 Advices on Used Cars
+
+        👉 Advices on New Cars
+        
         👉 Advices on Accessaries
 
         👉 Smart Service Discussion
