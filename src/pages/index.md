@@ -16,7 +16,6 @@ description: >-
 intro:
   blurbs:
     - image: /img/car-repair.png
-      path: /about
       text: >
         👉 Advices on Used Cars
 
@@ -29,7 +28,6 @@ intro:
         👉 Warranty and Roadside Assistance
         
     - image: /img/udupi-tourism.png
-      path: /about
       text: >
         👉 Multilingual Tourist Guide
 
