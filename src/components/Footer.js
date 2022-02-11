@@ -2,7 +2,7 @@ import * as React from "react";
 import { Link } from "gatsby";
 
 import logo from "../img/logo.png";
-import facebook from "../img/social/facebook.svg";
+import mail from "../img/icons8-email-open-50.png";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
 
@@ -73,11 +73,11 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="mail" href = "mailto:reachkiranupadhya@gmail.com?subject=Feedback&body = Message">
                   <img
-                    src={facebook}
+                    src={mail}
                     alt="Facebook"
-                    style={{ width: "1em", height: "1em" }}
+                    style={{ width: "1em", height: "1em", backgroundColor:'white' }}
                   />
                 </a>
                 <a title="twitter" href="https://twitter.com">
