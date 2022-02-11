@@ -1,19 +1,16 @@
 ---
 templateKey: 'about-page'
-path: /automobile
+path: /about
 title: About Automobile
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Advices on Accessaries
+A wide range of accessories to elevate your driving
+experience as per your desires. 
+While your busy schedule deserves your full attention, caring for your vehicle deserves ours.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Smart Service Discussion
+Customers have always ended up paying exhorbidant amount of service charges after listening to list of services which a normal person is forced to agreed upon.
+With expert advice, the customer would exactly see what services needs to be opted into and how far could we save money from services
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Warranty and Roadside Assistance
+Customers have always seen lot of issues with legal troubles and on warranty. When you are struck in a road with no one to get help from, but you have all the required assistance tools available. Get the best advice from Kiran Upadhya to ensure you are saving money in warranty and reaching home safe.
