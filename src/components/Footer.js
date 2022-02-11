@@ -73,13 +73,13 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="mail" href = "mailto:reachkiranupadhya@gmail.com?subject=Feedback&body = Message">
+                {/* <a title="mail" href = "mailto:reachkiranupadhya@gmail.com?subject=Feedback&body = Message">
                   <img
                     src={mail}
                     alt="Facebook"
                     style={{ width: "1em", height: "1em", backgroundColor:'white' }}
                   />
-                </a>
+                </a> */}
                 <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
