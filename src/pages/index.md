@@ -27,7 +27,7 @@ intro:
         
         👉 Warranty and Roadside Assistance
         
-    - image: /img/udupi-tourism.jpg
+    - image: /img/car-repair.png
       text: >
         👉 Multilingual Tourist Guide
 
