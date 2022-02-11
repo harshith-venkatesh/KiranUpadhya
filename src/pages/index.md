@@ -15,7 +15,7 @@ description: >-
   Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/carRepair.png
       text: >
         👉 Advices on Used Cars
 
@@ -27,7 +27,7 @@ intro:
         
         👉 Warranty and Roadside Assistance
         
-    - image: /img/coffee.png
+    - image: /img/udupiTourism.png
       text: >
         👉 Multilingual Tourist Guide
 

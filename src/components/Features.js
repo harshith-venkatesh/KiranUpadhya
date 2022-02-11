@@ -17,8 +17,8 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <div style={{maxWidth:"30rem" , height:"10rem", margin:"1rem", display:"flex", flexWrap:"wrap", wordWrap: "break-word", overflow:"auto", background:"#F5F5F5"}}>
-          <pre >{item.text}</pre>
+          <div >
+          <pre ><span style={{maxWidth:"30rem" , height:"10rem", margin:"1rem", display:"flex", flexWrap:"wrap", wordWrap: "break-word", overflow:"auto", background:"#F5F5F5"}}>{item.text}</span></pre>
           </div>
           
         </Link>
