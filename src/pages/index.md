@@ -27,7 +27,7 @@ intro:
         
         👉 Warranty and Roadside Assistance
         
-    - - image: /img/coffee.png
+    - image: /img/coffee.png
       text: >
         👉 Multilingual Tourist Guide
 
