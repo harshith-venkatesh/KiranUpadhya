@@ -9,10 +9,8 @@ mainpitch:
   
   description: >
     DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
-    Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
-description: >-
-  DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
-  Worked on many indian companies like Maruthi,Mahindra and Mahindra as well as in companies of gulf countries.
+    Worked on many Indian companies like Maruthi,Mahindra and Mahindra as well as in many companies of gulf country.
+
 intro:
   blurbs:
     - image: /img/carRepair.png

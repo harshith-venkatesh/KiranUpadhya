@@ -9,11 +9,7 @@ const FeatureGrid = ({ gridItems }) => (
       <div key={item.text} className="column is-6 main-page-language__card">
         <Link to={item.path} className="section">
           <div className="has-text-centered">
-            <div
-              style={{
-                width: "30rem",
-              }}
-            >
+            <div>
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>

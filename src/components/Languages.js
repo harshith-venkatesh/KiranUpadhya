@@ -2,6 +2,7 @@ import React from "react";
 import './language.module.css'
 export default function Languages(){
     return (<>
+    <h2 style={{textAlign:"center"}}>Languages proficient in: </h2>
         <div className="language__cards">
     <div className="language__card language__card-1">
       <h2 className="language__card__title">Kannada</h2>
