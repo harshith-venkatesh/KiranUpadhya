@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
-
+import ImageAbout from "../components/ImageAbout";
 // eslint-disable-next-line
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -17,9 +17,11 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <ul>
-                <h3>Thinking of buying a used car? This is what is probably going through your mind right now:
+              <h3 className="title is-size-5 has-text-weight-bold is-bold-light">Thinking of buying a used car? This is what is probably going through your mind right now:
 </h3>
+             <ImageAbout />
+              <ul>
+                
                 <li>
                 ✅ “How do I know that the car I buy will be well-maintained?”
                 </li>
@@ -27,9 +29,15 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
                 ✅ “I don’t know anything about the previous owner and how he used the car.”
                 </li>
                 <li>
+                ✅ “I don’t know anything about the car, whether it has gone through an accident or not ?”
+                </li>
+                <li>
                 ✅  “What kind of assurance will I get with regards to the quality of a used car?”
                 </li>
-                <h3>Maybe you're considering selling your used car and have these concerns:</h3>
+                </ul>
+                <br />
+                <h3 className="title is-size-5 has-text-weight-bold is-bold-light">Maybe you're considering selling your used car and have these concerns:</h3>
+                <ul>
                 <li>
                 ✅  “How do I get a genuine buyer for my car?”
                 </li>

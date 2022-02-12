@@ -9,7 +9,7 @@ mainpitch:
   
   description: >
     DME (AT) , with 25 years of automobile experience in Indian and Imported Cars.
-    Worked on many Indian companies like Maruthi,Mahindra and Mahindra as well as in many companies of gulf country.
+    Worked on many Indian companies like Maruthi,Mahindra and Mahindra as well as in Oman Trading Establishment (Bahwan Group) , Muscat 
 
 intro:
   blurbs:
