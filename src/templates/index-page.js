@@ -4,10 +4,10 @@ import { Link, graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
-import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
 import FullWidthImage from "../components/FullWidthImage";
 import Languages from "../components/Languages";
+import Contact from "../pages/contact/index";
+import { Automobile } from "../components/Automobile";
 
 
 
@@ -30,30 +30,22 @@ export const IndexPageTemplate = ({
         <div className="container">
           <div >
             <div className="columns">
-              <div className="column is-10 is-offset-1">
+
                 <div className="content">
                   <div className="content">
-                    <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
+                    <div style={{textAlign:"center"}}>
+                      <h2 className="subtitle">{mainpitch.title}</h2>
                     </div>
-                    <div className="tile">
+                    <div className="tile" style={{textAlign:"center"}}>
                       <h3 className="subtitle">{mainpitch.description}</h3>
                     </div>
                   </div>
-                  {/* <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h3>
-                      <p>{description}</p>
-                    </div>
-                  </div> */}
                   <Languages />
-                  <Features gridItems={intro.blurbs} />
+                  <Automobile />
+                  <Contact />
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </section>
     </div>
