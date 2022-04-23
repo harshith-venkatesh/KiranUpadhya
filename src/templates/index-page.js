@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import { getImage } from "gatsby-plugin-image";
 
 import Layout from "../components/Layout";
@@ -8,6 +8,7 @@ import FullWidthImage from "../components/FullWidthImage";
 import Languages from "../components/Languages";
 import Contact from "../pages/contact/index";
 import { Automobile } from "../components/Automobile";
+import Carousal from "../components/Carousal";
 
 
 
@@ -41,6 +42,7 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <Languages />
+                  <Carousal />
                   <Automobile />
                   <Contact />
                 </div>
